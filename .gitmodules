@@ -1,4 +1,4 @@
 [submodule "js/lib"]
 	path = js/lib
-	url = https://github.com/mrtwister76/maze.js.git
+	url = https://github.com/codebox/maze.js.git
 	
